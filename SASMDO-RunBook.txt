@@ -1,0 +1,4 @@
+Implement below steps as part of SASMDO run book to StartUp and ShutDown:
+Compute Layer
+MidTier Layer
+Database Layer
