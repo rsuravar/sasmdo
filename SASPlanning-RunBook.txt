@@ -1,4 +1,0 @@
-Implement below steps as part of SASPlanning run book to StartUp and ShutDown:
-Confirm server is UP
-BringUp the application
-Validate
